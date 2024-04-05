@@ -22,7 +22,3 @@ The project intends to utilize logistic regression and decision tree classifier 
 ![image](https://github.com/shreyaguru-1/Mental-Health-Prediction-through-Data-Normalization-and-Modeling-/assets/166087435/9d0c3b24-24d3-4e1b-af3a-88555d1f690d)
 ![image](https://github.com/shreyaguru-1/Mental-Health-Prediction-through-Data-Normalization-and-Modeling-/assets/166087435/9acf4c6d-41ed-47a2-bd9c-03c005b29744)
 
-
-
-## References:
-- [Kaggle](https://www.kaggle.com/): A platform for data science and machine learning competitions, where the dataset used in this project was sourced from.
